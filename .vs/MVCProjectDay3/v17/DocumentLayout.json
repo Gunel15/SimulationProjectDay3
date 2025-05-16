@@ -1,114 +1,114 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\",
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\courses\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\courses\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\courses\\courseupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\courses\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\courses\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\dataaccesslayer\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\dataaccesslayer\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\trainer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\courses\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\courses\\coursegetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\dataaccesslayer\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\dataaccesslayer\\fitnessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainercreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainerupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\viewmodels\\trainers\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\viewmodels\\trainers\\trainergetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\classtime\\desktop\\simulationprojectday3\\mvcprojectday3\\migrations\\20250516060125_createdcoursesandtrainerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\migrations\\20250516060125_createdcoursesandtrainerstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,15 +118,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -135,297 +135,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAWwF0AAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAWwHcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T07:54:36.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "20250516060125_CreatedCoursesAndTrainersTable.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
-              "RelativeToolTip": "MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T06:01:25.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CourseUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
-              "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:51:23.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
-              "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:51:04.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CourseGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
               "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:50:49.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T05:50:49.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TrainerUpdateVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
               "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:42:58.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T05:42:58.921Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TrainerCreateVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
               "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:42:33.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T05:42:33.277Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "TrainerGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
               "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:41:13.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Course.cs",
-              "RelativeToolTip": "MVCProjectDay3\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:36:37.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "MVCProjectDay3\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:34:32.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Trainer.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Trainer.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Trainer.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Trainer.cs",
-              "RelativeToolTip": "MVCProjectDay3\\Models\\Trainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:34:15.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\appsettings.json",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\appsettings.json",
-              "RelativeToolTip": "MVCProjectDay3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-16T05:10:00.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FitnessDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
-              "RelativeToolTip": "MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:26:06.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T05:41:13.825Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TrainerController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Controllers\\TrainerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwC4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-16T05:25:07.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:20:43.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:20:16.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:19:45.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:12:28.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:12:08.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIABAAAAAAAAAAAAwJwBAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:11:54.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Program.cs",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Program.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Program.cs",
-              "RelativeToolTip": "MVCProjectDay3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T05:08:44.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T05:03:01.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -434,42 +222,237 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\Course.cs",
+              "RelativeToolTip": "MVCProjectDay3\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:36:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
+              "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:51:23.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "RelativeToolTip": "MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:51:04.66Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "20250516060125_CreatedCoursesAndTrainersTable.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
+              "RelativeToolTip": "MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:01:25.993Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "MVCProjectDay3\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:34:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Models\\Trainer.cs",
+              "RelativeToolTip": "MVCProjectDay3\\Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:34:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\appsettings.json",
+              "RelativeToolTip": "MVCProjectDay3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T05:10:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FitnessDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
+              "RelativeToolTip": "MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:26:06.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:20:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:20:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:19:45.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:12:28.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:12:08.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIABAAAAAAAAAAAAwJwBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:11:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Program.cs",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Program.cs",
+              "RelativeToolTip": "MVCProjectDay3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:08:44.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T05:03:01.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "MVCProjectDay3\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-16T05:01:45.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T05:01:45.744Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MVCProjectDay3\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-16T04:52:13.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T04:52:13.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SimulationProjectDay3\\MVCProjectDay3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MVCProjectDay3\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T04:51:51.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T04:51:51.131Z"
             }
           ]
         }

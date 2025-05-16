@@ -79,36 +79,47 @@ namespace MVCProjectDay3.Areas.Admin.Controllers
                 TrainerId = x.TrainerId,
                 Date = x.Date
             }).FirstOrDefaultAsync();
-            return View();
+            return View(course);
         }
 
-        //[HttpPost]
-        //public async Task<IActionResult> Update(int? id, CourseUpdateVM vm)
-        //{
-        //    if (!id.HasValue || id.Value < 1)
-        //        return BadRequest();
+        [HttpPost]
+        public async Task<IActionResult> Update(int? id, CourseUpdateVM vm)
+        {
+            ViewBag.Trainers = await _context.Trainers.ToListAsync();
+            if (!id.HasValue || id.Value < 1)
+                return BadRequest();
 
-        //    if (vm.ImageFile != null)
-        //    {
-        //        if (vm.ImageFile.ContentType.StartsWith("image")) ;
-        //        ModelState.AddModelError("ImageFile", "File format must be image");
-        //        if (vm.ImageFile.Length / 1024 > 200)
-        //            ModelState.AddModelError("ImageFile", "File size must be less than 200kb");
-        //    }
-        //    if (!ModelState.IsValid)
-        //        return View(vm);
-        //    if (!await _context.Trainers.AnyAsync(x => x.Id == vm.TrainerId))
-        //    {
-        //        ModelState.AddModelError("TrainerId", "Trainer does not exit");
-        //        ViewBag.Trainers = await _context.Trainers.ToListAsync();
-        //        return View(vm);
-        //    }
-        //    var course = await _context.Trainers.FindAsync(id);
-        //    if (course == null)
-        //        return NotFound();
-        //    course.Title = vm.Title;
-        //    await _context.SaveChangesAsync();
-        //    return RedirectToAction("Index");
-        //}
+            if (vm.ImageFile != null)
+            {
+                if (vm.ImageFile.ContentType.StartsWith("image")) ;
+                ModelState.AddModelError("ImageFile", "File format must be image");
+                if (vm.ImageFile.Length / 1024 > 200)
+                    ModelState.AddModelError("ImageFile", "File size must be less than 200kb");
+            }
+            if (!ModelState.IsValid)
+                return View(vm);
+            if (!await _context.Trainers.AnyAsync(x => x.Id == vm.TrainerId))
+            {
+                ModelState.AddModelError("TrainerId", "Trainer does not exit");
+                ViewBag.Trainers = await _context.Trainers.ToListAsync();
+                return View(vm);
+            }
+            var course = await _context.Courses.FindAsync(id);
+            if (course == null)
+                return NotFound();
+            string newImgName = Guid.NewGuid().ToString() + vm.ImageFile!.FileName;
+            string path=Path.Combine("wwwroot", "imgs", "courses", newImgName);
+            using FileStream fs = new(path, FileMode.OpenOrCreate);
+            await vm.ImageFile.CopyToAsync(fs);
+
+            course.Title=vm.Title;
+            course.Description=vm.Description;
+            course.Date = vm.Date;
+            course.TrainerId = vm.TrainerId;
+            course.ImageUrl = newImgName;
+            _context.Courses.Update(course);
+            await _context.SaveChangesAsync();
+            return RedirectToAction("Index");
+        }
     }
 }

@@ -11,12 +11,20 @@
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\trainercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\viewmodels\\courses\\coursecreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,20 +91,12 @@
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|solutionrelative:mvcprojectday3\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E612935-A6C7-4373-960D-27BE0EC22BAA}|MVCProjectDay3\\MVCProjectDay3.csproj|c:\\users\\l novbe\\source\\repos\\mvcprojectday3\\mvcprojectday3\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -128,14 +128,14 @@
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
               "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\Trainer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T07:57:44.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Controllers\\CourseController.cs",
@@ -148,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20250516060125_CreatedCoursesAndTrainersTable.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Migrations\\20250516060125_CreatedCoursesAndTrainersTable.cs",
@@ -161,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CourseUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseUpdateVM.cs",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CourseCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseCreateVM.cs",
@@ -187,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CourseGetVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Courses\\CourseGetVM.cs",
@@ -200,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "TrainerUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerUpdateVM.cs",
@@ -213,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "TrainerCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerCreateVM.cs",
@@ -226,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "TrainerGetVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\ViewModels\\Trainers\\TrainerGetVM.cs",
@@ -239,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Course.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Course.cs",
@@ -252,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\BaseEntity.cs",
@@ -265,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Trainer.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Models\\Trainer.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Models\\Trainer.cs",
@@ -278,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\appsettings.json",
               "RelativeDocumentMoniker": "MVCProjectDay3\\appsettings.json",
@@ -291,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "FitnessDbContext.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\DataAccessLayer\\FitnessDbContext.cs",
@@ -317,20 +317,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "MVCProjectDay3\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T05:20:43.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\_ViewStart.cshtml",
@@ -343,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\Shared\\_Layout.cshtml",
@@ -356,13 +356,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "MVCProjectDay3\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-16T05:12:28.874Z",
               "EditorCaption": ""
@@ -382,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -395,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Program.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Program.cs",
@@ -408,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -447,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Views\\Home\\Index.cshtml",
@@ -460,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\source\\repos\\MVCProjectDay3\\MVCProjectDay3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCProjectDay3\\Controllers\\HomeController.cs",

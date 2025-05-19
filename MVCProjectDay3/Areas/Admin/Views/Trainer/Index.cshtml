@@ -1,6 +1,9 @@
-﻿@{
+﻿@using MVCProjectDay3.ViewModels.Trainers
+@model List<TrainerGetVM>
+@{
    int order=1;
 }
+<a class="btn btn-primary" asp-action="Create">Create</a>
 <table class="table">
     <thead>
         <tr>
@@ -15,9 +18,10 @@
         {
             <tr>
                 <th scope="row">@(order++)</th>
-                <td>Name</td>
+                <td>@item.Name</td>
                 <td>
-                    <a class="btn btn-primary" asp-action="Create"></a>
+                    <a class="btn btn-primary" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                    <a class="btn btn-secondary" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                 </td>
             </tr>
         }

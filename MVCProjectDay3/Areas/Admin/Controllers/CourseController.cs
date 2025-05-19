@@ -6,6 +6,7 @@ using MVCProjectDay3.ViewModels.Courses;
 
 namespace MVCProjectDay3.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CourseController(FitnessDbContext _context) : Controller
     {
         public async Task<IActionResult> Index()
@@ -32,10 +33,11 @@ namespace MVCProjectDay3.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(CourseCreateVM vm)
         {
+           // ViewBag.Trainers = await _context.Trainers.ToListAsync();
             if (vm.ImageFile != null)
             {
-                if (vm.ImageFile.ContentType.StartsWith("image")) ;
-                ModelState.AddModelError("ImageFile", "File format must be image");
+               // if (vm.ImageFile.ContentType.StartsWith("image"))
+                    //ModelState.AddModelError("ImageFile", "File format must be image");
                 if (vm.ImageFile.Length / 1024 > 200)
                     ModelState.AddModelError("ImageFile", "File size must be less than 200kb");
             }
@@ -47,7 +49,7 @@ namespace MVCProjectDay3.Areas.Admin.Controllers
                 ViewBag.Trainers = await _context.Trainers.ToListAsync();
                 return View(vm);
             }
-            string newImgName = Guid.NewGuid().ToString() + vm.ImageFile.FileName;
+            string newImgName = Guid.NewGuid().ToString() + vm.ImageFile!.FileName;
             string path = Path.Combine("wwwroot", "imgs", "courses", newImgName);
 
             using FileStream fs = new FileStream(path, FileMode.OpenOrCreate);
@@ -91,10 +93,10 @@ namespace MVCProjectDay3.Areas.Admin.Controllers
 
             if (vm.ImageFile != null)
             {
-                if (vm.ImageFile.ContentType.StartsWith("image")) ;
-                ModelState.AddModelError("ImageFile", "File format must be image");
-                if (vm.ImageFile.Length / 1024 > 200)
-                    ModelState.AddModelError("ImageFile", "File size must be less than 200kb");
+                //if (vm.ImageFile.ContentType.StartsWith("image")) ;
+                //ModelState.AddModelError("ImageFile", "File format must be image");
+                //if (vm.ImageFile.Length / 1024 > 200)
+                    //ModelState.AddModelError("ImageFile", "File size must be less than 200kb");
             }
             if (!ModelState.IsValid)
                 return View(vm);
@@ -121,5 +123,16 @@ namespace MVCProjectDay3.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
+
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (!id.HasValue || id.Value < 1)
+                return BadRequest();
+            var result = await _context.Courses.Where(x => x.Id == id).ExecuteDeleteAsync();
+            if (result == 0)
+                return NotFound();
+            return RedirectToAction(nameof(Index));
+        }
     }
 }
+

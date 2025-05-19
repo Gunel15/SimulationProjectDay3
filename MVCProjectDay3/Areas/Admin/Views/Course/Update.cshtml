@@ -1,0 +1,42 @@
+﻿@using MVCProjectDay3.ViewModels.Courses
+@model CourseUpdateVM
+<div>
+    <a class="btn btn-primary" asp-action="Index">Go to list</a>
+</div>
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title">Title</label>
+        <input asp-for="Title" class="form-control" placeholder="Enter title">
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageFile">Image</label>
+        <input asp-for="ImageFile" class="form-control" placeholder="Enter title">
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Description</label>
+        <input asp-for="Description" class="form-control" placeholder="Enter title">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="TrainerId">Trainer</label>
+        @* <select asp-for="TrainerId" class="form-select"> *@
+        @*     @foreach(var trainer in ViewBag.Trainers) *@
+        @*     { *@
+        @*         <option value="@trainer.Id">@trainer.Name</option> *@
+        @*     } *@
+        @* </select> *@
+        <select asp-for="TrainerId" asp-items='new SelectList(ViewBag.Trainers,"Id","Name")' class="form-select">
+        </select>
+        <span asp-validation-for="TrainerId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Date">Date</label>
+        <input asp-for="Date" class="form-control" placeholder="Enter title">
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
